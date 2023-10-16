@@ -6,3 +6,5 @@ Assim, o cuidador/enfermeiro poderá prontamente apanrar o idoso que está senta
 # CONTÉM
 - APK do app do projeto
 - App construído em blocos no kodular
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
